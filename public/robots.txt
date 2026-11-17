@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://genzetechnologies.com/sitemap.xml
